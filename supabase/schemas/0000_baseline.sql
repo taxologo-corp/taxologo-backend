@@ -1,0 +1,4 @@
+-- Clean-slate declarative-schema baseline.
+--
+-- Add Taxologo application definitions in later numbered files. Do not put data
+-- in this directory; synthetic local-only data belongs in ../seed.sql.

@@ -1,0 +1,2 @@
+-- This is intentionally a no-op until Taxologo has application tables.
+-- Add only synthetic local/test data here; never add customer, receipt, or financial data.
